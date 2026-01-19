@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+openai-whisper
+langchain
+faiss-cpu
+openai
+python-multipart

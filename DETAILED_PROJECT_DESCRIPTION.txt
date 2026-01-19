@@ -1,0 +1,14 @@
+
+PROJECT OVERVIEW – AI Call Intelligence System
+
+This project demonstrates how modern AI systems can analyze and understand human conversations.
+
+The platform allows users to upload a recorded sales or support call. The system automatically converts speech into text using Whisper, processes the transcript, and stores it in a vector database. Users can then ask natural language questions about the call, such as customer problems, objections, summaries, or action items.
+
+The project focuses on:
+• Practical use of Speech-to-Text
+• Building a RAG (Retrieval Augmented Generation) pipeline
+• Designing AI-powered backend APIs
+• Full-stack system integration
+• Real-world AI engineering workflows
+
